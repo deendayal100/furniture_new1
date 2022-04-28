@@ -1,0 +1,4 @@
+[29-Apr-2021 21:27:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/furnituremu/public_html/application/views/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/furnituremu/public_html/application/views/index.php on line 9
